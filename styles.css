@@ -12,10 +12,9 @@ scroll-behavior: smooth;
 }
 
 body {
-font-family: Simplifica;
-font-size: 2rem;
+font-family: Comfortaa;
+font-size: 1.6rem;
 color: #696969;
-letter-spacing: 2px;
 }
 
 a {
@@ -65,6 +64,9 @@ text-align: center;
 margin: auto;
 color: #808080;
 font-weight: 900;
+font-family: Simplifica;
+letter-spacing: 4px;
+font-size: 7rem;
 }
 
 #features, #contact {
@@ -198,7 +200,7 @@ footer {
     background-color: #222222;
     color: #999;
     line-height: 2rem;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     }
 
 #footer1 {
